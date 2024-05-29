@@ -1,0 +1,14 @@
+{
+    "name":"bidding-platform",
+    "version":"1.0.0",
+    "description":"",
+    "main":"app.js",
+    "scripts":{
+        "start":"node app.js",
+        "dev":"nodemon app.js",
+        "test":"jest"
+    },
+    "dependencies":{
+        "nodemon":"^3.1.1"
+    }
+}
